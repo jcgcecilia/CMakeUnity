@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jcc/Workspace/C/Unity/examples/cmake/example_1/unity/src/unity.c
+unity.h
+/home/jcc/Workspace/C/Unity/examples/cmake/example_1/unity/src/unity.h
+stddef.h
+-
+
+/home/jcc/Workspace/C/Unity/examples/cmake/example_1/unity/src/unity.h
+unity_internals.h
+/home/jcc/Workspace/C/Unity/examples/cmake/example_1/unity/src/unity_internals.h
+
+/home/jcc/Workspace/C/Unity/examples/cmake/example_1/unity/src/unity_internals.h
+unity_config.h
+/home/jcc/Workspace/C/Unity/examples/cmake/example_1/unity/src/unity_config.h
+setjmp.h
+-
+math.h
+-
+stdint.h
+-
+limits.h
+-
+stdio.h
+-
+stdio.h
+-
+
